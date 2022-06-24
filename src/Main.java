@@ -12,6 +12,7 @@ public class Main {
         int total = wallet + payment + bonus;
 
         System.out.println(" У Вас на счету " + total + " рублей(я)");
+        System.out.println(" Бонусных рублей на счету: " + bonus);
 
 
     }
